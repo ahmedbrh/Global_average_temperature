@@ -1,4 +1,4 @@
-# Global_average_temperature-
+# Global_average_temperature
 
 ### Data API import from https://data.giss.nasa.gov/gistemp/
 
