@@ -1,0 +1,61 @@
+
+   
+*
+{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+} body{
+        background-color: rgb(34, 33, 33);
+      }
+
+ 
+ #chart { 
+  
+    background-color: #333;
+    border-radius: 6px;
+  
+
+ }
+ #title{
+
+color : whitesmoke ; 
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+ }
+
+ .Main {
+ 
+ margin: 0px auto;
+ padding: 60px 50px 50px 50px ; 
+
+ overflow: hidden;
+ /* Not usable in IE */
+ /* resize: both; */
+ 
+ width: 100;
+ height: 100 ; 
+ 
+ 
+}
+footer{ 
+text-align: center;
+ font-size: 9px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a { 
+
+    color: tomato;
+}
+a:hover {
+
+    color:white;
+    background-color: darkblue;
+}
+
